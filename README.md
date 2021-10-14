@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
 <h3 align="center">A passionate developer from California</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinceldridge&label=Profile%20views&color=0e75b6&style=flat" alt="gavinceldridge" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavinceldridge" alt="gavinceldridge" /></a> </p>
-
 - 🔭 I’m currently working on [Nest Home Smart Thermostat Controller](https://github.com/gavinceldridge/Google-Nest-Auto-Temp-Controller)
 
 - 🌱 I’m currently learning **MongoDB, Typescript, Redux, React Native**
