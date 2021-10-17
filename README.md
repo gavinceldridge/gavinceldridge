@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
-<h3 align="center">A passionate developer from California</h3>
+<h3 align="center">A passionate software engineer from California</h3>
 
 - 🔭 I’m currently working on [Nest Home Smart Thermostat Controller](https://github.com/gavinceldridge/Google-Nest-Auto-Temp-Controller)
 
