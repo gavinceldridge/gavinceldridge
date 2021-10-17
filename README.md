@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
 <h3 align="center">A passionate software engineer from California</h3>
 
-- 🔭 I’m currently working on [Nest Home Smart Thermostat Controller](https://github.com/gavinceldridge/Google-Nest-Auto-Temp-Controller)
+- 🔭 I’m currently working on [Apex Legends Twitch Chat Voter Bot](https://github.com/gavinceldridge/ApexTwitchBot)
 
 - 🌱 I’m currently learning **MongoDB, Typescript, Redux, React Native**
 
