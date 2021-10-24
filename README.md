@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
 <h3 align="center">A passionate software engineer from California</h3>
 
-- 🔭 I’m currently working on [Apex Legends Twitch Chat Voter Bot](https://github.com/gavinceldridge/ApexTwitchBot)
+- 🔭 I’m currently working on [Vegan Hacktivist Challenge]("https://gist.github.com/GRardB/7e2990bbea8c2e50e2b501b712d8c169")
 
-- 🌱 I’m currently learning **MongoDB, Typescript, Redux, React Native**
+- 🌱 I’m currently learning **MySQL, Laravel, PHP**
 
 - 👯 I’m looking to collaborate on **React Native projects!**
 
