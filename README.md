@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
 <h3 align="center">A passionate software engineer from California</h3>
 
-- 🔭 I’m currently working on [my work with FACTORFIVE Skincare](https://factorfiveskin.com/)
-
 - 🌱 I’m currently learning **MySQL, Laravel, PHP**
 
 - 👯 I’m looking to collaborate on **React Native projects!**
